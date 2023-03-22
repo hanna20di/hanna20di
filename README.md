@@ -1,6 +1,6 @@
 ![MasterHead](https://media2.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)
 <h1 align="center">Hi 👋, I'm Hanna Dicsi</h1>
-<h3 align="center">Sunt studentă in anul întai la facultate și recent am descoperit o pasiune pentru web design și frontend development , aș deri sa învaț cat mai multe despre aceste domenii. În momentul de față știu sa scriu cod în HTML, CSS și Bootstrap de asemenea știu să lucrez în sisteme de management de conținut ca și Wordpress în care știu sa folosesc plugin-urile Woocommerce și Elementor.</h3>
+<h3 align="center">Sunt studentă în anul întai la facultate și recent am descoperit o pasiune pentru web design și frontend development , aș dori sa învaț cat mai multe despre aceste domenii. În momentul de față știu sa scriu cod în HTML, CSS și Bootstrap de asemenea știu să lucrez în sisteme de management de conținut ca și Wordpress în care știu sa folosesc plugin-urile Woocommerce și Elementor.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanna20di&label=Profile%20views&color=0e75b6&style=flat" alt="hanna20di" /> </p>
 
